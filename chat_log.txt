@@ -1,0 +1,21 @@
+11:43 - Sent: ddasds
+11:43 - Received: ddasds
+11:43 - Sent: dasdasd
+11:43 - Received: dasdasd
+11:43 - Archived: [Sent]: [11:43] ddasds
+11:43 - Archived: [Received]: [11:43] dasdasd
+11:45 - Sent: ggdg
+11:45 - Received: ggdg
+11:45 - Restored: [Received]: [11:43] dasdasd
+11:45 - Restored: [Sent]: [11:43] ddasds
+11:45 - Archive auto-cleared
+11:45 - Archived: [Sent]: [11:43] ddasds
+12:41 - Sent: sasas
+12:41 - Received: sasas
+12:41 - Sent: fff
+12:41 - Received: fff
+12:41 - Archived: [Sent]: [12:41] fff
+12:43 - Sent: fuck
+12:43 - Sent: dd
+12:43 - Received: dd
+12:43 - Archived: [Sent]: [12:43] dd

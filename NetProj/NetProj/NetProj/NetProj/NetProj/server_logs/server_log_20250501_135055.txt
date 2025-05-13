@@ -1,0 +1,12 @@
+2025-05-01 13:39:55 - Loaded 0 user credentials
+2025-05-01 13:39:57 - Server started on port 8888 (files on 8889)
+2025-05-01 13:40:28 - New client connected: /127.0.0.1
+2025-05-01 13:40:42 - New client connected: /127.0.0.1
+2025-05-01 13:41:06 - User credentials saved (1 users)
+2025-05-01 13:41:15 - User credentials saved (2 users)
+2025-05-01 13:41:28 - New client connected: /127.0.0.1
+2025-05-01 13:41:28 - ibrahim connected: :5000
+2025-05-01 13:41:53 - New client connected: /127.0.0.1
+2025-05-01 13:41:53 - nassar connected: :6000
+2025-05-01 13:42:40 - ibrahim status changed to: Away
+2025-05-01 13:42:58 - nassar status changed to: Away

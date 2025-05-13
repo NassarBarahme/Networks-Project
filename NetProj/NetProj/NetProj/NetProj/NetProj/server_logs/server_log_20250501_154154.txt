@@ -1,0 +1,6 @@
+2025-05-01 15:36:03 - Loaded 2 user credentials
+2025-05-01 15:37:19 - Server started on port 8888 (files on 8889)
+2025-05-01 15:37:24 - New client connected: /127.0.0.1
+2025-05-01 15:37:24 - ibrahim connected: 192.168.1.17:5000
+2025-05-01 15:37:58 - ibrahim status changed to: Away
+2025-05-01 15:41:47 - ibrahim status changed to: Active

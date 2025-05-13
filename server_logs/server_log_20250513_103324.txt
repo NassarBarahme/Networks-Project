@@ -1,0 +1,33 @@
+2025-05-13 10:13:02 - Loaded 0 user credentials
+2025-05-13 10:13:30 - User credentials saved (1 users)
+2025-05-13 10:13:48 - User credentials saved (2 users)
+2025-05-13 10:13:57 - Server started on port 8888 (files on 8889)
+2025-05-13 10:13:57 - File transfer handler started (listening on port 8889)
+2025-05-13 10:15:09 - New client connected: /127.0.0.1
+2025-05-13 10:15:09 - nassar connected: 172.23.128.57:1234
+2025-05-13 10:15:42 - nassar status changed to: Away
+2025-05-13 10:15:44 - New client connected: /127.0.0.1
+2025-05-13 10:15:44 - ip connected: 172.23.128.57:5678
+2025-05-13 10:15:54 - ip status changed to: away
+2025-05-13 10:15:57 - ip status changed to: Busy
+2025-05-13 10:16:04 - ip status changed to: Active
+2025-05-13 10:16:08 - nassar status changed to: Active
+2025-05-13 10:16:08 - nassar status changed to: Active
+2025-05-13 10:16:58 - nassar status changed to: Away
+2025-05-13 10:17:02 - nassar status changed to: Active
+2025-05-13 10:17:02 - nassar status changed to: Active
+2025-05-13 10:17:56 - User credentials saved (3 users)
+2025-05-13 10:18:03 - nassar status changed to: Away
+2025-05-13 10:18:20 - ip status changed to: Away
+2025-05-13 10:18:43 - New client connected: /127.0.0.1
+2025-05-13 10:18:43 - jj connected: 172.23.128.57:8642
+2025-05-13 10:19:01 - ip status changed to: Active
+2025-05-13 10:19:01 - ip status changed to: Active
+2025-05-13 10:20:10 - ip status changed to: Away
+2025-05-13 10:20:18 - jj status changed to: Away
+2025-05-13 10:31:53 - nassar status changed to: Active
+2025-05-13 10:31:53 - nassar status changed to: Active
+2025-05-13 10:32:24 - nassar status changed to: Away
+2025-05-13 10:33:20 - ip status changed to: Active
+2025-05-13 10:33:20 - ip status changed to: Active
+2025-05-13 10:33:21 - ip disconnected

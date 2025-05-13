@@ -1,0 +1,9 @@
+2025-05-05 17:14:27 - Loaded 3 user credentials
+2025-05-05 17:14:29 - Server started on port 8888 (files on 8889)
+2025-05-05 17:14:29 - File transfer handler started (listening on port 8889)
+2025-05-05 17:14:58 - New client connected: /127.0.0.1
+2025-05-05 17:14:58 - ibrahim connected: 192.168.1.7:1234
+2025-05-05 17:15:25 - New client connected: /127.0.0.1
+2025-05-05 17:15:25 - nassar connected: 192.168.1.7:4321
+2025-05-05 17:15:33 - ibrahim disconnected
+2025-05-05 17:18:56 - nassar status changed to: Away

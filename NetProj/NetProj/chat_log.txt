@@ -1,0 +1,13 @@
+11:08 - Archive auto-cleared
+11:52 - Sent: hi
+11:52 - Received: hi
+11:52 - Sent: hhjkjk
+11:52 - Received: hhjkjk
+11:52 - Archived: [Received]: [11:52] hhjkjk
+11:52 - Sent: hgjbkl
+11:52 - Received: hgjbkl
+11:52 - Archived: [Sent]: [11:52] hi
+11:52 - Archived: [Sent]: [11:52] hgjbkl
+11:53 - Restored: [Sent]: [11:52] hgjbkl
+11:53 - Restored: [Sent]: [11:52] hi
+11:53 - Restored: [Received]: [11:52] hhjkjk

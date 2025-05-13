@@ -1,0 +1,2 @@
+2025-05-12 11:24:55 - Loaded 2 user credentials
+Username already exists

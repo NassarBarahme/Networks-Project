@@ -1,0 +1,29 @@
+2025-05-05 16:19:58 - Loaded 3 user credentials
+2025-05-05 16:20:00 - Server started on port 8888 (files on 8889)
+2025-05-05 16:20:00 - File transfer handler started (listening on port 8889)
+2025-05-05 16:20:46 - New client connected: /127.0.0.1
+2025-05-05 16:20:46 - ibrahim connected: 192.168.1.7:4567
+2025-05-05 16:21:10 - New client connected: /127.0.0.1
+2025-05-05 16:21:10 - nassar connected: 192.168.1.7:7654
+2025-05-05 16:21:52 - New client connected: /127.0.0.1
+2025-05-05 16:21:52 - test connected: 192.168.1.7:6789
+2025-05-05 16:25:14 - ibrahim status changed to: Away
+2025-05-05 16:25:32 - nassar status changed to: Away
+2025-05-05 16:25:39 - nassar status changed to: Active
+2025-05-05 16:26:21 - test status changed to: Away
+2025-05-05 16:29:52 - test status changed to: Active
+2025-05-05 16:29:54 - test disconnected
+2025-05-05 16:29:54 - ibrahim status changed to: Active
+2025-05-05 16:29:57 - ibrahim disconnected
+2025-05-05 16:33:14 - nassar status changed to: Active
+2025-05-05 16:33:16 - nassar status changed to: Busy
+2025-05-05 16:33:19 - nassar status changed to: Away
+2025-05-05 16:33:19 - nassar status changed to: Active
+2025-05-05 16:35:01 - nassar disconnected
+2025-05-05 16:36:45 - New client connected: /127.0.0.1
+2025-05-05 16:36:45 - ibrahim connected: 192.168.1.7:4567
+2025-05-05 16:36:52 - ibrahim disconnected
+2025-05-05 16:36:55 - New client connected: /127.0.0.1
+2025-05-05 16:36:55 - ibrahim connected: 192.168.1.7:4567
+2025-05-05 16:37:01 - New client connected: /127.0.0.1
+2025-05-05 16:37:01 - ibrahim connected: 192.168.1.7:4568

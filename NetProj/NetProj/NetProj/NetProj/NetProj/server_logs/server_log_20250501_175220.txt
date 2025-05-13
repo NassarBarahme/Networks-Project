@@ -1,0 +1,4 @@
+2025-05-01 17:51:20 - Loaded 2 user credentials
+2025-05-01 17:51:22 - Server started on port 8888 (files on 8889)
+2025-05-01 17:52:18 - New client connected: /127.0.0.1
+2025-05-01 17:52:18 - ibrahim connected: 127.0.0.1:6000

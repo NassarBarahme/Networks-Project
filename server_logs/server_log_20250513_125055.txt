@@ -1,0 +1,11 @@
+2025-05-13 12:49:06 - User credentials saved (12 users)
+2025-05-13 12:49:13 - User credentials saved (13 users)
+2025-05-13 12:49:16 - Server started on port 8888 (files on 8889)
+2025-05-13 12:49:16 - File transfer handler started (listening on port 8889)
+2025-05-13 12:49:51 - New client connected: /127.0.0.1
+2025-05-13 12:49:51 - ll connected: 172.23.128.57:1234
+2025-05-13 12:50:18 - New client connected: /127.0.0.1
+2025-05-13 12:50:18 - kk connected: 172.23.128.57:5678
+2025-05-13 12:50:24 - ll status changed to: Away
+2025-05-13 12:50:26 - ll status changed to: Active
+2025-05-13 12:50:26 - ll status changed to: Active

@@ -1,0 +1,4 @@
+2025-05-01 13:39:55 - Loaded 0 user credentials
+2025-05-01 13:39:57 - Server started on port 8888 (files on 8889)
+2025-05-01 13:40:28 - New client connected: /127.0.0.1
+2025-05-01 13:40:42 - New client connected: /127.0.0.1

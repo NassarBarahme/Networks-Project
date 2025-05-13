@@ -1,0 +1,4 @@
+2025-05-13 12:30:00 - User credentials saved (10 users)
+2025-05-13 12:30:07 - User credentials saved (11 users)
+2025-05-13 12:30:10 - Server started on port 8888 (files on 8889)
+2025-05-13 12:30:10 - File transfer handler started (listening on port 8889)

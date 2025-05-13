@@ -1,0 +1,17 @@
+2025-05-05 15:01:42 - Loaded 2 user credentials
+2025-05-05 15:01:58 - Server started on port 8888 (files on 8889)
+2025-05-05 15:01:58 - File transfer handler started (listening on port 8889)
+2025-05-05 15:02:17 - New client connected: /127.0.0.1
+2025-05-05 15:02:17 - nassar connected: 127.0.0.1:5000
+2025-05-05 15:02:30 - New client connected: /127.0.0.1
+2025-05-05 15:02:30 - nassar connected: 127.0.0.1:123
+2025-05-05 15:02:40 - New client connected: /127.0.0.1
+2025-05-05 15:02:40 - nassar connected: 127.0.0.1:1234
+2025-05-05 15:02:41 - Error with client nassar: Connection reset
+2025-05-05 15:02:41 - Error with client nassar: Connection reset
+2025-05-05 15:02:42 - nassar disconnected
+2025-05-05 15:02:42 - nassar disconnected
+2025-05-05 15:05:05 - New client connected: /127.0.0.1
+2025-05-05 15:05:05 - ibrahim connected: 127.0.0.1:4321
+2025-05-05 15:09:04 - nassar status changed to: Away
+2025-05-05 15:09:20 - ibrahim status changed to: Away

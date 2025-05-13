@@ -1,0 +1,7 @@
+2025-05-13 11:48:08 - Loaded 5 user credentials
+Username already exists
+Username already exists
+2025-05-13 11:48:36 - User credentials saved (6 users)
+2025-05-13 11:48:47 - User credentials saved (7 users)
+2025-05-13 11:48:52 - Server started on port 5678 (files on 5679)
+2025-05-13 11:48:52 - File transfer handler started (listening on port 5679)

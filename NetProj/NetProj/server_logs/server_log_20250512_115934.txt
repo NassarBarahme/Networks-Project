@@ -1,0 +1,27 @@
+2025-05-12 11:54:05 - Loaded 3 user credentials
+Username already exists
+2025-05-12 11:54:42 - User credentials saved (4 users)
+2025-05-12 11:55:32 - Server started on port 8888 (files on 8889)
+2025-05-12 11:55:32 - File transfer handler started (listening on port 8889)
+2025-05-12 11:55:34 - New client connected: /127.0.0.1
+2025-05-12 11:55:34 - ibrahim connected: 192.168.1.7:1234
+2025-05-12 11:56:07 - ibrahim status changed to: Away
+2025-05-12 11:56:11 - New client connected: /127.0.0.1
+2025-05-12 11:56:11 - nassar connected: 192.168.1.7:4321
+2025-05-12 11:56:35 - New client connected: /127.0.0.1
+2025-05-12 11:56:35 - client connected: 192.168.1.7:2586
+2025-05-12 11:56:42 - client status changed to: Busy
+2025-05-12 11:57:13 - client status changed to: Away
+2025-05-12 11:57:34 - ibrahim status changed to: Active
+2025-05-12 11:57:34 - ibrahim status changed to: Active
+2025-05-12 11:58:02 - nassar status changed to: Away
+2025-05-12 11:58:13 - ibrahim status changed to: Away
+2025-05-12 11:58:17 - client status changed to: Active
+2025-05-12 11:58:17 - client status changed to: Active
+2025-05-12 11:58:23 - nassar status changed to: Active
+2025-05-12 11:58:23 - nassar status changed to: Active
+2025-05-12 11:58:40 - nassar disconnected
+2025-05-12 11:58:48 - ibrahim status changed to: Active
+2025-05-12 11:58:48 - ibrahim status changed to: Active
+2025-05-12 11:59:15 - client status changed to: Away
+2025-05-12 11:59:18 - ibrahim status changed to: Away

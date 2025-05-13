@@ -1,0 +1,38 @@
+2025-05-13 13:10:30 - User credentials saved (17 users)
+Username already exists
+2025-05-13 13:10:49 - User credentials saved (18 users)
+2025-05-13 13:10:57 - User credentials saved (19 users)
+2025-05-13 13:11:01 - Server started on port 8888 (files on 8889)
+2025-05-13 13:11:01 - File transfer handler started (listening on port 8889)
+2025-05-13 13:11:29 - New client connected: /127.0.0.1
+2025-05-13 13:11:29 - nn connected: 172.23.128.57:1234
+2025-05-13 13:11:55 - New client connected: /127.0.0.1
+2025-05-13 13:11:55 - mm connected: 172.23.128.57:5678
+2025-05-13 13:12:00 - nn status changed to: Away
+2025-05-13 13:12:26 - New client connected: /127.0.0.1
+2025-05-13 13:12:26 - dd connected: 172.23.128.57:3000
+2025-05-13 13:12:28 - mm status changed to: Away
+2025-05-13 13:12:44 - mm status changed to: Active
+2025-05-13 13:12:44 - mm status changed to: Active
+2025-05-13 13:13:16 - mm status changed to: Away
+2025-05-13 13:14:33 - dd status changed to: Busy
+2025-05-13 13:14:37 - mm status changed to: Active
+2025-05-13 13:14:37 - mm status changed to: Active
+2025-05-13 13:14:42 - dd status changed to: Active
+2025-05-13 13:14:52 - nn status changed to: Active
+2025-05-13 13:14:52 - nn status changed to: Active
+2025-05-13 13:15:07 - mm status changed to: Away
+2025-05-13 13:15:45 - mm status changed to: Active
+2025-05-13 13:15:45 - mm status changed to: Active
+2025-05-13 13:15:58 - nn status changed to: Away
+2025-05-13 13:16:24 - dd status changed to: Away
+2025-05-13 13:16:31 - mm status changed to: Away
+2025-05-13 13:16:39 - mm status changed to: Active
+2025-05-13 13:16:39 - mm status changed to: Active
+2025-05-13 13:19:17 - mm status changed to: Away
+2025-05-13 13:19:52 - mm status changed to: Active
+2025-05-13 13:19:52 - mm status changed to: Active
+2025-05-13 13:19:52 - dd status changed to: Active
+2025-05-13 13:19:52 - dd status changed to: Active
+2025-05-13 13:20:00 - mm disconnected
+2025-05-13 13:20:01 - nn disconnected

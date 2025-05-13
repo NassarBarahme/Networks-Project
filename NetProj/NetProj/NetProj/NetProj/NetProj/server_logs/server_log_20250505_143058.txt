@@ -1,0 +1,9 @@
+2025-05-05 14:30:01 - Loaded 2 user credentials
+2025-05-05 14:30:02 - Server started on port 8888 (files on 8889)
+2025-05-05 14:30:03 - File transfer handler started (listening on port 8889)
+2025-05-05 14:30:13 - New client connected: /127.0.0.1
+2025-05-05 14:30:13 - ibrahim connected: 192.168.1.7:5000
+2025-05-05 14:30:29 - New client connected: /127.0.0.1
+2025-05-05 14:30:29 - ibrahim connected: 192.168.1.7:1234
+2025-05-05 14:30:51 - Error with client ibrahim: Connection reset
+2025-05-05 14:30:51 - ibrahim disconnected

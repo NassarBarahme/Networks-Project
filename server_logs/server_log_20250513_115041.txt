@@ -1,0 +1,2 @@
+Username already exists
+2025-05-13 11:50:35 - User credentials saved (8 users)

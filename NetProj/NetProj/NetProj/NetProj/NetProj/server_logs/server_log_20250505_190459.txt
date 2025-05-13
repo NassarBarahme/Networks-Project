@@ -1,0 +1,5 @@
+2025-05-05 19:00:59 - Loaded 3 user credentials
+2025-05-05 19:01:01 - Server started on port 8888 (files on 8889)
+2025-05-05 19:01:01 - File transfer handler started (listening on port 8889)
+2025-05-05 19:01:25 - New client connected: /127.0.0.1
+2025-05-05 19:01:25 - ibrahim connected: 192.168.1.7:1234
